@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/zelixos-logo.png" alt="ZelixOS logo" width="150">
+  <img src="assets/zelixos-logo.png" alt="ZelixOS logo" width="200">
   <h1>ZelixOS</h1>
   <p>An Arch Linux based distribution with a graphical installer, a considered desktop experience, and tools for everyday maintenance.</p>
   <p>
